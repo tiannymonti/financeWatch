@@ -14,7 +14,7 @@ The API from iextrading.com was used in order to obtain the required information
 
 Deploying
 =================
-To start the server: npm start
+To start the server: npm start (The port can be changed on app/config/config.js)
 To test the server: npm test
 There are 4 endpoints which receive a query parameter called _symbol_.
 * ***/*** :This endpoint it to receive all information on a JSON object
