@@ -1,0 +1,12 @@
+{
+  "name": "nodemockup",
+  "version": "1.0.0",
+  "description": "Mockup for Ideaware",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "node tests/test.js"
+  },
+  "author": "TBM",
+  "license": "ISC"
+}
