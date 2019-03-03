@@ -33,5 +33,5 @@ You can try with Postman too.
 
 Version History
 =================
-#### 0.0.0
+#### 0.0
 - Mockup Complete!
