@@ -23,8 +23,13 @@ There are 4 endpoints which receive a query parameter called _symbol_.
 * ***/latestNews***: Receives latest news from company
 
 ***Some examples***
-curl http://localhost:3000/?symbol=aapl
-curl http://localhost:3000/latestPrice?symbol=aapl
+===================
+
+You can try with Postman too.
+```
+    curl http://localhost:3000/?symbol=snap
+    curl http://localhost:3000/latestPrice?symbol=fb
+```
 
 Version History
 =================

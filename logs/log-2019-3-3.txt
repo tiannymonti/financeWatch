@@ -1,0 +1,6 @@
+/?symbol=aapl 03/03/19 10:31:56 SUCCESS 
+/ 03/03/19 10:32:02 FAILED 
+/?symbol=snap 03/03/19 10:32:14 SUCCESS 
+/?symbol=snap,aapl 03/03/19 10:37:18 FAILED 
+/latestNews?symbol=snap,aapl 03/03/19 10:38:19 FAILED 
+/latestNews?symbol=fb 03/03/19 10:39:47 SUCCESS 
