@@ -22,7 +22,7 @@ There are 4 endpoints which receive a query parameter called _symbol_.
 * ***/logo***: Receives company logo url
 * ***/latestNews***: Receives latest news from company
 
-##Some examples
+##Some examples##
 curl http://localhost:3000/?symbol=aapl
 curl http://localhost:3000/latestPrice?symbol=aapl
 
